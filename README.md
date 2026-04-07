@@ -2,8 +2,12 @@
 
 # Hey, I'm Hyungrae 👋
 
+확장 가능하고 독립 배포 가능한 마이크로서비스 아키텍처 설계를 지향합니다.
+
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://khr0907.github.io)
-[![Resume](https://img.shields.io/badge/-Resume-34d399?style=flat-square&logo=readme&logoColor=white)](https://khr0907.github.io/resume.html)
+[![Resume](https://img.shields.io/badge/-Resume-34d399?style=flat-square&logo=readme&logoColor=white)](https://khr0907.github.io/portfolio/resume.html)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hyungrae0907@gmail.com)
 
 </div>
 
@@ -19,13 +23,21 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/-JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![QueryDSL](https://img.shields.io/badge/-QueryDSL-0769AD?style=for-the-badge)
+![MyBatis](https://img.shields.io/badge/-MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Database & DevOps**
+**Database & Infra**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps**
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 **AI Assistant**
 
@@ -85,3 +97,4 @@ Supertonic-2 한국어 TTS 엔진을 활용한 Discord 음성 봇. Discord OAuth
 </td>
 </tr>
 </table>
+
