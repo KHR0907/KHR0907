@@ -2,8 +2,6 @@
 
 # Hey, I'm Hyungrae 👋
 
-**설계부터 운영까지 서비스 전체를 책임지는 백엔드 엔지니어**
-
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://khr0907.github.io)
 [![Resume](https://img.shields.io/badge/-Resume-34d399?style=flat-square&logo=readme&logoColor=white)](https://khr0907.github.io/resume.html)
 
