@@ -67,7 +67,7 @@
 #### <a href="https://github.com/KHR0907/obsidian-3d-semantic-graph">Obsidian 3D Semantic Graph</a>
 **AI 임베딩 기반 3D 시맨틱 노트 시각화 플러그인**
 
-OpenAI 임베딩과 UMAP/PCA 차원 축소로 노트를 의미 유사도 기반 3D 공간에 배치하는 Obsidian 플러그인. 커스텀 벡터 업로드, ConvexHull 클러스터 시각화, 폴더 기반 구형 레이아웃 폴백 지원
+OpenAI 임베딩과 UMAP/PCA 차원 축소로 노트를 의미 유사도 기반 3D 공간에 배치하는 Obsidian 플러그인. 커스텀 벡터 업로드, ConvexHull 클러스터 시각화, 폴더/태그 기반 노드 컬러링 지원
 
 `TypeScript` `Three.js` `3d-force-graph` `UMAP` `PCA` `OpenAI Embeddings`
 
