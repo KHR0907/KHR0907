@@ -5,7 +5,7 @@
 확장 가능하고 독립 배포 가능한 마이크로서비스 아키텍처 설계를 지향합니다.
 
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://khr0907.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://khr0907.github.io/portfolio/)
 [![Resume](https://img.shields.io/badge/-Resume-34d399?style=flat-square&logo=readme&logoColor=white)](https://khr0907.github.io/portfolio/resume.html)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hyungrae0907@gmail.com)
 
