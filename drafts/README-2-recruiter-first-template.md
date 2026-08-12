@@ -1,0 +1,80 @@
+<!--
+Template 2 · Recruiter First
+목적: 10초 안에 역할·핵심 스택·대표 프로젝트를 전달
+-->
+
+<div align="center">
+
+# {{PROFILE.NAME}} · {{PROFILE.ROLE}}
+
+**{{PROFILE.VALUE_PROPOSITION}}**
+
+[![Portfolio](https://img.shields.io/badge/{{LINKS.PORTFOLIO_LABEL}}-{{THEME.DARK_HEX}}?style=flat-square&logo=github&logoColor=white)]({{LINKS.PORTFOLIO_URL}})
+[![Resume](https://img.shields.io/badge/{{LINKS.RESUME_LABEL}}-{{THEME.ACCENT_HEX}}?style=flat-square&logo=readme&logoColor=white)]({{LINKS.RESUME_URL}})
+
+</div>
+
+## {{SECTIONS.ABOUT_TITLE}}
+
+{{ABOUT.SUMMARY}}
+
+- **{{STACK_GROUP_1.LABEL}}:** {{STACK_GROUP_1.ITEMS}}
+- **{{STACK_GROUP_2.LABEL}}:** {{STACK_GROUP_2.ITEMS}}
+- **{{STACK_GROUP_3.LABEL}}:** {{STACK_GROUP_3.ITEMS}}
+- **{{STACK_GROUP_4.LABEL}}:** {{STACK_GROUP_4.ITEMS}}
+
+## {{SECTIONS.PROJECTS_TITLE}}
+
+<!-- 아래 프로젝트 블록을 필요한 수만큼 사용합니다. 핵심 4개, 최대 8개를 권장합니다. -->
+
+### [{{PROJECT_1.NAME}}]({{PROJECT_1.URL}})
+
+{{PROJECT_1.DESCRIPTION}}
+
+`{{PROJECT_1.TECH_1}}` `{{PROJECT_1.TECH_2}}` `{{PROJECT_1.TECH_3}}` `{{PROJECT_1.TECH_4}}`
+
+### [{{PROJECT_2.NAME}}]({{PROJECT_2.URL}})
+
+{{PROJECT_2.DESCRIPTION}}
+
+`{{PROJECT_2.TECH_1}}` `{{PROJECT_2.TECH_2}}` `{{PROJECT_2.TECH_3}}` `{{PROJECT_2.TECH_4}}`
+
+### [{{PROJECT_3.NAME}}]({{PROJECT_3.URL}})
+
+{{PROJECT_3.DESCRIPTION}}
+
+`{{PROJECT_3.TECH_1}}` `{{PROJECT_3.TECH_2}}` `{{PROJECT_3.TECH_3}}` `{{PROJECT_3.TECH_4}}`
+
+### [{{PROJECT_4.NAME}}]({{PROJECT_4.URL}})
+
+{{PROJECT_4.DESCRIPTION}}
+
+`{{PROJECT_4.TECH_1}}` `{{PROJECT_4.TECH_2}}` `{{PROJECT_4.TECH_3}}` `{{PROJECT_4.TECH_4}}`
+
+### [{{PROJECT_5.NAME}}]({{PROJECT_5.URL}})
+
+{{PROJECT_5.DESCRIPTION}}
+
+`{{PROJECT_5.TECH_1}}` `{{PROJECT_5.TECH_2}}` `{{PROJECT_5.TECH_3}}` `{{PROJECT_5.TECH_4}}`
+
+### [{{PROJECT_6.NAME}}]({{PROJECT_6.URL}})
+
+{{PROJECT_6.DESCRIPTION}}
+
+`{{PROJECT_6.TECH_1}}` `{{PROJECT_6.TECH_2}}` `{{PROJECT_6.TECH_3}}` `{{PROJECT_6.TECH_4}}`
+
+### [{{PROJECT_7.NAME}}]({{PROJECT_7.URL}})
+
+{{PROJECT_7.DESCRIPTION}}
+
+`{{PROJECT_7.TECH_1}}` `{{PROJECT_7.TECH_2}}` `{{PROJECT_7.TECH_3}}` `{{PROJECT_7.TECH_4}}`
+
+### [{{PROJECT_8.NAME}}]({{PROJECT_8.URL}})
+
+{{PROJECT_8.DESCRIPTION}}
+
+`{{PROJECT_8.TECH_1}}` `{{PROJECT_8.TECH_2}}` `{{PROJECT_8.TECH_3}}` `{{PROJECT_8.TECH_4}}`
+
+---
+
+{{FOOTER.CTA_PREFIX}} **[{{FOOTER.CTA_LABEL}}]({{FOOTER.CTA_URL}})**{{FOOTER.CTA_SUFFIX}}
