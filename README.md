@@ -54,11 +54,13 @@ Repeatable delivery → 테스트와 CI/CD를 통한 검증·배포·복구 자�
 
 ## Toolbox
 
-| Backend | Data | Platform | AI & Interface |
-|---|---|---|---|
-| Java, Spring Boot | MySQL, Oracle | Docker, AWS | OpenAI, Claude |
-| JPA, QueryDSL | Redis, SQLite | Jenkins, GitHub | LangChain, LangGraph |
-| Python, FastAPI, Node.js | SQLAlchemy, pgvector | CI/CD, MCP | Embeddings, Budget-aware Routing, Three.js |
+**Backend** · Java · Spring Boot · JPA · QueryDSL · MyBatis · Python · FastAPI\
+**Frontend** · Next.js · React · TypeScript\
+**AI / Data** · Vertex AI (Gemini) · RAG · pgvector · ComfyUI\
+**Database** · MySQL · Oracle · PostgreSQL · Redis\
+**DevOps** · AWS · GCP · Jenkins · GitHub Actions · Docker\
+**Tools** · GitHub · IntelliJ IDEA · Jira · Slack · Postman · Antigravity\
+**AI Assistant** · Claude · Codex · Gemini
 
 ## What I Optimize For
 
