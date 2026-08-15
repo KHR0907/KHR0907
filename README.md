@@ -24,7 +24,7 @@ AI로 판단과 구현 속도를 높이고, 검증 가능한 시스템으로 안
 
 개발의 목표를 기능 완성이 아니라, 고객이 가치를 느끼고 그 가치에 합당한 대가를 지불하는 제품을 만드는 데 둡니다. 백엔드를 중심으로 요구사항 정의부터 AI 통합, 사용자 인터페이스, 배포와 운영까지 서비스 전체를 연결합니다.
 
-**Current focus** · AI agent orchestration · E2E product engineering · RAG
+**Current focus** · AI agent orchestration · AI-native engineering · Spec-driven development
 
 | Principle | In practice |
 |---|---|
