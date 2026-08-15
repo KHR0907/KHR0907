@@ -2,9 +2,9 @@
 
 # 김형래 · Backend Developer
 
-### 확장 가능한 백엔드와 실제로 동작하는 AI 제품을 만듭니다.
+### 기술을 제품으로 연결해 고객 가치와 비즈니스 성과를 만듭니다.
 
-서비스 경계를 명확히 나누고, 독립적으로 배포·운영할 수 있는 시스템을 지향합니다.
+AI로 판단과 구현 속도를 높이고, 검증 가능한 시스템으로 안정적으로 전달합니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=github&logoColor=white)](https://khr0907.github.io/portfolio/)
 [![Resume](https://img.shields.io/badge/Resume-059669?style=flat-square&logo=readme&logoColor=white)](https://khr0907.github.io/portfolio/resume.html)
@@ -12,21 +12,27 @@
 
 </div>
 
-## Engineering Snapshot
+## Profile
 
 | | |
 |---|---|
-| **Primary role** | Backend Developer |
+| **Role** | Backend Developer |
 | **Core languages** | Java, Python, TypeScript, JavaScript |
-| **Architecture** | Independently deployable services, real-time systems |
-| **Current focus** | AI agent orchestration, semantic interfaces, self-hosted AI |
-| **Delivery** | Docker, AWS, Jenkins, GitHub |
+| **Architecture** | Scalable systems, high cohesion, loose coupling, domain-fit design |
 
-## About
+## Product Engineering Approach
 
-Java와 Spring Boot를 주력으로, 비즈니스 요구사항을 명확한 도메인 모델과 안정적인 API로 구체화하는 백엔드 개발자입니다. 서비스 경계와 데이터 소유권, 트랜잭션 일관성, 동시성 제어를 설계 단계부터 고려하며, JPA·QueryDSL 기반 데이터 접근 계층과 관계형 데이터베이스·Redis를 활용해 변경에 강한 구조를 만듭니다.
+개발의 목표를 기능 완성이 아니라, 고객이 가치를 느끼고 그 가치에 합당한 대가를 지불하는 제품을 만드는 데 둡니다. 백엔드를 중심으로 요구사항 정의부터 AI 통합, 사용자 인터페이스, 배포와 운영까지 서비스 전체를 연결합니다.
 
-기능 구현만으로 개발이 끝난다고 생각하지 않습니다. 자동화 테스트, 장애 격리와 복구, 보안, 관측 가능한 실행 상태, CI/CD와 롤백까지 운영 수명주기 전체를 개발 범위로 다룹니다. 설계 근거와 인터페이스 계약을 문서화하고, 작은 변경 단위와 검증 가능한 결과를 통해 팀의 협업 비용과 운영 위험을 낮추는 것을 중요하게 생각합니다.
+**Current focus** · AI agent orchestration · E2E product engineering · RAG
+
+| Principle | In practice |
+|---|---|
+| **Value before features** | 기능 구현에 앞서 고객 문제와 제공 가치를 정의하고, 지속 가능한 비즈니스로 이어지는지 함께 판단합니다. |
+| **Structured reasoning** | 요구사항을 그대로 구현하지 않고 공학적으로 분해해 단계와 경계를 찾고, 해결해야 할 본질을 명확히 합니다. |
+| **AI-augmented execution** | AI를 탐색과 의사결정, 구현 가속에 활용해 개인 생산성을 높이되 결과는 명시적인 기준과 테스트로 검증합니다. |
+| **Adaptable architecture** | 확장성을 기본 방향으로 삼고 높은 응집도와 낮은 결합도를 지향하되, 추상화 수준은 도메인과 규모에 맞춥니다. |
+| **Change with confidence** | 자동화 테스트로 회귀와 유지보수 비용을 낮추고, 고정된 방법론보다 문제에 맞는 개발 방식을 선택합니다. |
 
 ## Selected Projects
 
@@ -41,17 +47,6 @@ Java와 Spring Boot를 주력으로, 비즈니스 요구사항을 명확한 도�
 | **[MCP Deploy Hook](https://github.com/KHR0907/mcp-deploy-hook)** | AI 에이전트가 MCP를 통해 Git 기반 배포 파이프라인을 실행하는 headless 서버입니다.<br>순차 실행, 프로젝트별 잠금, 단계별 timeout과 SQLite 실행 로그를 제공합니다. | Python, MCP, SQLite, pytest |
 | **[Efficient LLM Routing Challenge](https://github.com/prompt-way/ossp-2026-llm-router-challenge)** · Team Challenge · In progress | “쉬운 문제는 싸게, 어려운 문제만 비싸게”를 목표로 개발 중인 오프라인 AI 라우터입니다.<br>프롬프트 난이도와 budget tier만으로 품질·비용 효율이 높은 후보 모델 하나를 선택합니다. | Python, Prompt-only Routing, Budget Policy, Feature Engineering, Docker |
 
-## Engineering Focus
-
-```text
-Service boundaries  → 책임과 데이터 소유권이 분명한 구조
-Real-time systems   → 예측·보간·검증을 통한 일관된 사용자 경험
-Observable work     → 비동기 작업의 진행 상태와 실패를 외부에 공개
-Practical AI        → 모델 호출을 제어 가능한 제품 흐름으로 연결
-Cost-aware routing  → 제한된 예산에서 프롬프트별 품질·비용 최적화
-Repeatable delivery → 테스트와 CI/CD를 통한 검증·배포·복구 자동화
-```
-
 ## Toolbox
 
 **Backend** · Java · Spring Boot · JPA · QueryDSL · MyBatis · Python · FastAPI\
@@ -61,13 +56,6 @@ Repeatable delivery → 테스트와 CI/CD를 통한 검증·배포·복구 자�
 **DevOps** · AWS · GCP · Jenkins · GitHub Actions · Docker\
 **Tools** · GitHub · IntelliJ IDEA · Jira · Slack · Postman · Antigravity\
 **AI Assistant** · Claude · Codex · Gemini
-
-## What I Optimize For
-
-- 변경의 영향 범위를 설명할 수 있는 명확한 시스템 경계
-- 실패 지점을 확인하고 복구할 수 있는 실행 구조
-- 테스트를 통과한 변경을 반복 가능하게 전달하는 배포 과정
-- 복잡한 AI와 실시간 동작을 사용자가 이해하고 제어할 수 있는 인터페이스
 
 ---
 
