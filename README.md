@@ -59,8 +59,6 @@ AI로 판단과 구현 속도를 높이고, 검증 가능한 시스템으로 안
 
 ---
 
-<div align="center">
-
-더 자세한 프로젝트와 경험은 **[Portfolio](https://khr0907.github.io/portfolio/)**에서 확인할 수 있습니다.
-
-</div>
+<p align="center">
+  더 자세한 프로젝트와 경험은 <a href="https://khr0907.github.io/portfolio/"><strong>Portfolio</strong></a>에서 확인할 수 있습니다.
+</p>
