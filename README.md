@@ -54,7 +54,7 @@ AI로 판단과 구현 속도를 높이고, 검증 가능한 시스템으로 안
 **AI / Data** · Vertex AI (Gemini) · RAG · pgvector · ComfyUI\
 **Database** · MySQL · Oracle · PostgreSQL · Redis\
 **DevOps** · AWS · GCP · Jenkins · GitHub Actions · Docker\
-**Tools** · GitHub · IntelliJ IDEA · Jira · Slack · Postman · Antigravity\
+**Tools** · GitHub · IntelliJ IDEA · Jira · Slack · Postman · Antigravity · Orca\
 **AI Assistant** · Claude · Codex · Gemini
 
 ---
